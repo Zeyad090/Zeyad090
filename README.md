@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @Zeyad090
-- 👀 I’m interested in programming...
-- 🌱 I’m currently learning this language...
-- 💞️ I’m looking to collaborate on programming...
-- 📫 How to reach me on the top ...
+# Zeyad Altwalah
+![top-10-programmers-on-the-world](https://user-images.githubusercontent.com/89542277/136715005-d3dadc88-4a34-4286-932a-024c90ada5e4.jpg)
+# Education
+English Language . Human Resource Management
+# Courses
+Building Arduino applications.
+Administrative assistant skills.
+Effective communication skills
+Report writing and administrative correspondence skills . 
+Electronic secretarial applications and smart office management
+# Interests
+Kolten  language &
+c++
+# contact with me
 
-<!---
-Zeyad090/Zeyad090 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* [witter](https://twitter.com/BinTwalah?t=cACMhPR2_EQCFWhk6EPj6w&s=09)
+* [linkedin](https://www.linkedin.com/in/zeyad-altwalah-73256819b)

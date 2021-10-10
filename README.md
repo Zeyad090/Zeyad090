@@ -15,6 +15,6 @@ c++
 
 * [witter](https://twitter.com/BinTwalah?t=cACMhPR2_EQCFWhk6EPj6w&s=09)
 * [linkedin](https://www.linkedin.com/in/zeyad-altwalah-73256819b)
-* [Gmail](https://accounts.google.com/SignOutOptions?hl=ar&continue=https://mail.google.com&service=mail)
+
 
  

@@ -3,14 +3,15 @@
 # Education
 English Language . Human Resource Management
 # Courses
+kotlin
 Building Arduino applications.
 Administrative assistant skills.
 Effective communication skills
 Report writing and administrative correspondence skills . 
 Electronic secretarial applications and smart office management
 # Interests
-Kolten  language &
-c++
+Kotlin  
+
 # contact with me
 
 * [witter](https://twitter.com/BinTwalah?t=cACMhPR2_EQCFWhk6EPj6w&s=09)

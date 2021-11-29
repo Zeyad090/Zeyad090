@@ -3,11 +3,11 @@
 # Education
 English Language . Human Resource Management
 # Courses
-kotlin
-Building Arduino applications.
-Administrative assistant skills.
-Effective communication skills
-Report writing and administrative correspondence skills . 
+Kotlin.-
+Building Arduino applications.-
+Administrative assistant skills.-
+Effective communication skills.-
+Report writing and administrative correspondence skills.-
 Electronic secretarial applications and smart office management
 # Interests
 Kotlin  

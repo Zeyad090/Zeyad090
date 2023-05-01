@@ -5,13 +5,13 @@
 # Education
 English Language . Human Resource Management
 # Courses
-Kotlin.-
-fluttter
-Building Arduino applications.-
-Administrative assistant skills.-
-Effective communication skills.-
-Report writing and administrative correspondence skills.-
-Electronic secretarial applications and smart office management
+* Kotlin.-
+* Fluttter
+* Building Arduino applications.-
+* Administrative assistant skills.-
+* Effective communication skills.-
+* Report writing and administrative correspondence skills.-
+* Electronic secretarial applications and smart office management
 # Interests
 * Kotlin  
 * Fluttter
